@@ -1,5 +1,4 @@
-// create global values to be used throughout app, and set default values here
-
 {
-    "mongoURI": "mongodb+srv://brynbennett:Flatiron2019!@devconnector-pvs1p.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://brynbennett:Flatiron2019!@devconnector-pvs1p.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
